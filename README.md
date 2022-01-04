@@ -3,7 +3,7 @@
 
 ## Determined Our Source Data & Environment
 - [OpenBlender](https://openblender.io/#/my_dashboard)
-    - OpenBlender enhances the performance of Machine Learning models by augmenting them with external data from various open sources.
+    -Enhances Machine Learning models by augmenting them with data from various open sources.
 - Built the project in Jupyter Lab
 - Pip installed OpenBlender & [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
 - Google Slides presentation
