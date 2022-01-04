@@ -1,10 +1,11 @@
 # Blockchain NLP
+![Image Credit:Bahrain This Week.com](images/ai-blockchain.jpeg)
 
 ## Determined Our Source Data & Environment
 - [OpenBlender](https://openblender.io/#/my_dashboard)
     - OpenBlender enhances the performance of Machine Learning models by augmenting them with external data from various open sources.
 - Built the project in Jupyter Lab
-- Pip installed [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
+- Pip installed OpenBlender & [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
 - Google Slides presentation
 
 ## Project Goals
@@ -31,4 +32,4 @@
 ### Resources
 
 - [OpenBlender](https://openblender.io/#/my_dashboard)
-- [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)]
+- [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)

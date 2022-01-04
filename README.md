@@ -1,5 +1,5 @@
 # Blockchain NLP
-![Image Credit:Dreamstime.com](images/agricultural_futures.jpeg)
+![Image Credit:Bahrain This Week.com](images/ai-blockchain.jpeg)
 
 ## Determined Our Source Data & Environment
 - [OpenBlender](https://openblender.io/#/my_dashboard)
