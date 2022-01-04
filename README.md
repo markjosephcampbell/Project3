@@ -12,8 +12,8 @@
 - 
 
 ## Loaded In and Cleaned the Data
-- Compare daily exchange and prices differences between Bitcoin to USD
-- Mix external news with crypto data
+- Compared daily exchange and price differences between Bitcoin to USD
+- Mixed external news with crypto data
 - Joined the data into a single dataframe
 
 ## Data Preparation
