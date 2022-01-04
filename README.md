@@ -31,4 +31,4 @@
 ### Resources
 
 - [OpenBlender](https://openblender.io/#/my_dashboard)
-- [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)]
+- [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
