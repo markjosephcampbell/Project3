@@ -37,3 +37,5 @@
 
 - [OpenBlender](https://openblender.io/#/my_dashboard)
 - [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
+- [AIM](https://analyticsindiamag.com/how-to-use-openblender-the-leading-data-blending-tool/)
+- [Google Trends](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f)
