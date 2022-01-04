@@ -4,8 +4,31 @@
 - [OpenBlender](https://openblender.io/#/my_dashboard)
     - OpenBlender enhances the performance of Machine Learning models by augmenting them with external data from various open sources.
 - Built the project in Jupyter Lab
-- [Google Slides presentation]
+- Pip installed [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
+- Google Slides presentation
+
+## Project Goals
+- 
+
+## Loaded In and Cleaned the Data
+-
+
+## Data Preparation
+-
+
+## Dashboard
+- 
+
+## Conclusions & Predictions
+- 
+
+## Future Considerations
+-
+
+## Technical Requirements
+- 
 
 ### Resources
 
-- [Time Blend]
+- [OpenBlender](https://openblender.io/#/my_dashboard)
+- [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)]
