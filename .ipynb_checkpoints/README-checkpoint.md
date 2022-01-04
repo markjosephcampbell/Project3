@@ -12,10 +12,14 @@
 - 
 
 ## Loaded In and Cleaned the Data
--
+- Compare daily exchange and prices differences between Bitcoin to USD
+- Mix external news with crypto data
+- Joined the data into a single dataframe
 
 ## Data Preparation
--
+- Tokenized the data
+- Split the data into test and train
+- Built a Random Forest Model
 
 ## Dashboard
 - 
