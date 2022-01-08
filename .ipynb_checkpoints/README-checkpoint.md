@@ -39,3 +39,6 @@
 - [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
 - [AIM](https://analyticsindiamag.com/how-to-use-openblender-the-leading-data-blending-tool/)
 - [Google Trends](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f)
+- [Twitter Dashboard](https://developer.twitter.com/en/portal/dashboard)
+- [Atoti - Twitter sentiment](https://www.atoti.io/how-im-failing-my-twitter-sentiment-analysis-for-cryptocurrency-prediction/)
+- [Drabble / Twiiter Sentiment and Cryptocurrencies](https://github.com/Drabble/TwitterSentimentAndCryptocurrencies)
