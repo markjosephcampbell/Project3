@@ -2,11 +2,9 @@
 ![Image Credit:Bahrain This Week.com](images/ai-blockchain.jpeg)
 
 ## Determined Our Source Data & Environment
-- [OpenBlender](https://openblender.io/#/my_dashboard)
-    -Enhances Machine Learning models by augmenting them with data from various open sources.
+- Twitter's API
 - Built the project in Jupyter Lab
-- Pip installed OpenBlender & [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
-- [Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gd5b15f0a3_5_26)
+-[Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gd5b15f0a3_5_26)
 
 ## Project Goals
 - 
@@ -42,3 +40,4 @@
 - [Twitter Dashboard](https://developer.twitter.com/en/portal/dashboard)
 - [Atoti - Twitter sentiment](https://www.atoti.io/how-im-failing-my-twitter-sentiment-analysis-for-cryptocurrency-prediction/)
 - [Drabble / Twiiter Sentiment and Cryptocurrencies](https://github.com/Drabble/TwitterSentimentAndCryptocurrencies)
+- [Computational Methods in the Civic Sphere](http://2017.compciv.org/guide/topics/python-nonstandard-libraries/twython-guide/twitter-twython-api-basics.html#exploring-the-basics-of-the-twitter-api-with-twython)
