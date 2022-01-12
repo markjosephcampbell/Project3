@@ -6,7 +6,7 @@
     -Enhances Machine Learning models by augmenting them with data from various open sources.
 - Built the project in Jupyter Lab
 - Pip installed OpenBlender & [Gensim](https://www.geeksforgeeks.org/nlp-gensim-tutorial-complete-guide-for-beginners/)
-- Google Slides presentation
+- [Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gd5b15f0a3_5_26)
 
 ## Project Goals
 - 
