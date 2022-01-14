@@ -4,11 +4,13 @@
 ## Determined Our Source Data & Environment
 - Twitter's API
 - Built the project in Jupyter Lab
--[Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gd5b15f0a3_5_26)
+- [Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gd5b15f0a3_5_26)
+
 
 ## Project Goals
 - 
 
+---
 ## Loaded In and Cleaned the Data
 - Compared daily exchange and price differences between Bitcoin to USD
 - Mixed external news with crypto data
@@ -19,18 +21,21 @@
 - Split the data into test and train
 - Built a Random Forest Model
 
+---
 ## Dashboard
-- 
+- .
 
 ## Conclusions & Predictions
-- 
+- Develop another model with better accuracy because we had a high MSE
 
 ## Future Considerations
--
+- Combine with Google Trends, OpenBlender and Twython data
+- Add more data sources: Facebook, Instagram, white papers
 
 ## Technical Requirements
 - 
 
+---
 ### Resources
 
 - [OpenBlender](https://openblender.io/#/my_dashboard)
