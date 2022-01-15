@@ -2,11 +2,11 @@
 ![Image Credit:Bahrain This Week.com](images/ai-blockchain.jpeg)
 
 ## Determined Our Source Data & Environment
-- Twitter API
-- OpenBlender API
-- Google Trends Data
+- [Twitter API](https://developer.twitter.com/en/portal/dashboard)
+- [OpenBlender API](https://openblender.io/#/my_dashboard)
+- [Google Trends Data](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f)
 - Built the project in Jupyter Lab
-- [Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gd5b15f0a3_5_26)
+- [Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gcb9a0b074_1_0)
 
 ## Project Goals
 - Predict whether the bitcoin would rise or decline using the bitcoin based news.
