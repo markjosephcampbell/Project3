@@ -7,6 +7,7 @@
 - [Google Trends Data](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f)
 - Built the project in Jupyter Lab
 - [Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gcb9a0b074_1_0)
+- Pip Install - Pytrends, Pandas_DataReader, OpenBlender, Gensim, Wordcloud
 
 ## Project Goals
 - Predict whether Bitcoin would rise or fall based on Bitcoin news.
