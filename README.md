@@ -9,8 +9,8 @@
 - [Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gcb9a0b074_1_0)
 
 ## Project Goals
-- Predict whether Bitcoin would rise or decline based on Bitcoin news.
-- Analyze the sentiment of this news and check the correlation with bitcoin prices.
+- Predict whether Bitcoin would rise or fall based on Bitcoin news.
+- Analyze the sentiment of this news and it's correlation with bitcoin prices.
 
 ## Loaded In and Cleaned the Data
 - Compared daily exchange and price differences between Bitcoin and USD.
@@ -19,9 +19,9 @@
 
 ## Data Preparation
 - Tokenized the news data.
-- Applied Lemmatization to the data
-- Split the data into test and train
-- Built a Random Forest Model
+- Applied Lemmatization to the data.
+- Split the data into test and train.
+- Built a Random Forest Model.
 
 ## Data Analysis
 - Extracted news that was grouped on daily basis and the target variable was generated using the closing and opening prices.
@@ -31,7 +31,9 @@
 - Aplied lemmatization to the news to improve the accuracy of sentiment analysis. 
 
 ## Dashboard
-- .
+![Google Trends hits](images/google_trends.png)
+![Google Trends Data](images/google_trends_data.png)
+![Wordcloud](images/wordcloud.png)
 
 ## Conclusions & Predictions
 - Small correlation between the sentiment of the news and the trend in bitcoin prices.
