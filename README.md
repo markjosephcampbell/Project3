@@ -7,7 +7,8 @@
 - [Google Trends Data](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f)
 - Built the project in Jupyter Lab
 - [Google Slides presentation](https://docs.google.com/presentation/d/1iUyEHhSnRBL9jjJk1DSg_f3G2os2I2VMZiwFwZWFQt4/edit#slide=id.gcb9a0b074_1_0)
-- Pip Install - Pytrends, Pandas_DataReader, OpenBlender, Gensim, Wordcloud
+- Pip Install - Pytrends, Pandas_DataReader, OpenBlender, Gensim, Wordcloud 
+- Full import list of libraries and dependencies is below the Resources
 
 ## Project Goals
 - Predict whether Bitcoin would rise or fall based on Bitcoin news.
@@ -34,6 +35,7 @@
 ## Dashboard
 ![Google Trends hits](images/google_trends.png)
 ![Google Trends Data](images/google_trends_data.png)
+![Wordcloud](images/count_target_labels.png)
 ![Wordcloud](images/wordcloud.png)
 
 ## Conclusions & Predictions
@@ -59,3 +61,44 @@
 - [Atoti - Twitter sentiment](https://www.atoti.io/how-im-failing-my-twitter-sentiment-analysis-for-cryptocurrency-prediction/)
 - [Drabble / Twiiter Sentiment and Cryptocurrencies](https://github.com/Drabble/TwitterSentimentAndCryptocurrencies)
 - [Computational Methods in the Civic Sphere](http://2017.compciv.org/guide/topics/python-nonstandard-libraries/twython-guide/twitter-twython-api-basics.html#exploring-the-basics-of-the-twitter-api-with-twython)
+
+### Libraries & Dependencies
+- import pandas as pd
+- import numpy as np
+- from numpy import concatenate
+- import OpenBlender
+- import json
+- import seaborn as sns
+- import datetime as dt
+- from Data import Data
+- import math
+- from math import sqrt
+- from pandas import DataFrame
+- from pandas import concat
+- import nltk
+- from nltk.stem import WordNetLemmatizer
+- from nltk.corpus import wordnet
+- nltk.download('vader_lexicon')
+- from nltk.sentiment.vader import SentimentIntensityAnalyzer
+- import gensim
+- from sklearn.ensemble import RandomForestClassifier
+- from sklearn.model_selection import train_test_split
+- from sklearn.metrics import f1_score,accuracy_score
+- from sklearn.ensemble import RandomForestRegressor
+- from sklearn.preprocessing import MinMaxScaler
+- from sklearn.metrics import r2_score
+- from sklearn.metrics import mean_squared_error, r2_score
+- from wordcloud import WordCloud
+- import matplotlib.pyplot as plt
+- plt.style.use('seaborn-whitegrid')
+- import matplotlib as mpl
+- mpl.rcParams['figure.figsize'] = [20.0, 10.0]
+- %matplotlib inline
+- from matplotlib import pyplot as plt
+- from tensorflow.keras import Sequential
+- from tensorflow.keras.layers import LSTM, Dense, Dropout, Activation
+- from pandas import read_csv
+- from GoogleTrendAPI_Direct import GoogleTrendAPI
+
+
+
