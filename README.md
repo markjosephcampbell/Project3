@@ -59,7 +59,6 @@
 - [Google Trends](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f)
 - [Twitter Dashboard](https://developer.twitter.com/en/portal/dashboard)
 - [Atoti - Twitter sentiment](https://www.atoti.io/how-im-failing-my-twitter-sentiment-analysis-for-cryptocurrency-prediction/)
-- [Drabble / Twiiter Sentiment and Cryptocurrencies](https://github.com/Drabble/TwitterSentimentAndCryptocurrencies)
 - [Computational Methods in the Civic Sphere](http://2017.compciv.org/guide/topics/python-nonstandard-libraries/twython-guide/twitter-twython-api-basics.html#exploring-the-basics-of-the-twitter-api-with-twython)
 - [Vector Stock](www.vectorstock.com)
 
